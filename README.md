@@ -10,3 +10,11 @@ Supreme uses the following dependencies:
 * [Pytorch 0.4.3](https://pytorch.org/get-started/locally/) and its dependencies
 * Numpy, Scipy and Pandas
 * CUDA 10.0 or latest version. And **cuDNN** is highly recommended
+
+## Framework
+
+## Dataset
+
+## Model Training
+
+# Licence
