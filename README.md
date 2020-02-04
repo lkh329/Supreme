@@ -16,7 +16,7 @@ Supreme uses the following dependencies:
 ## Dataset
 
 ## Model Training
-
+- n_epochs：number of epochs of training
 ## Model Test
 
 ## Licence
