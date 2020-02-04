@@ -28,25 +28,25 @@ Main arguments:
 
 Examples on model training:
 * Training Supreme with default setting:
-'''
+```
 python train.py --ext_flag
-'''
+```
 
 * Training Supreme with given setting (with external factor):
-'''
+```
 python train.py --n_residuals=16 --base_channels=64 --depth=6 --ext_flag
-'''
+```
 
 * Training Supreme without external factor 
-'''
+```
 python train.py --n_residuals=16 --base_channels=64 --depth=6
-'''
+```
 
 ## Model Test
 To test trained model, following code can be used:
-'''
+```
 python test.py --n_residuals=16 --base_channels=64 --depth=6
-'''
+```
 
 ## Dataset
 The data is divided into train/validation/test set with a ratio 4:1:1, more details can be found in our paper. 
