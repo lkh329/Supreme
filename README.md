@@ -49,5 +49,5 @@ python test.py --n_residuals=16 --base_channels=64 --depth=6
 ```
 
 ## Dataset
-The data is divided into train/validation/test set with a ratio 4:1:1, more details can be found in our paper. 
+The data is divided into train/validation/test set with a ratio 4:1:1. More questions or data request, please fill in this [form](https://jinshuju.net/f/MlwGsW).  
 
