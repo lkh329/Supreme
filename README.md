@@ -3,7 +3,7 @@ In this paper, we propose a fine-grained radio map reconstruction framework, cal
 crowd-sourced data in an image super-resolution manner. 
 
 ## Paper
-Kehan Li, Jiming Chen, Baosheng Yu, Chao Li, Zhangchong Shen, Shibo He. "Supreme: Fine-grained Radio map Reconstruction via Spatial-Temporal Fusion Network.", Submitted to IPSN 2020.
+Kehan Li, Jiming Chen, Baosheng Yu, Chao Li, Zhangchong Shen, Shibo He. "*Supreme: Fine-grained Radio map Reconstruction via Spatial-Temporal Fusion Network.*", Submitted to IPSN 2020.
 
 ## Requirements
 Supreme uses the following dependencies:
